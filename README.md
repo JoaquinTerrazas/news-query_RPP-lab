@@ -20,7 +20,7 @@ Sigue estos pasos para poner en marcha el proyecto en tu entorno local.
 
 **1. Clonar el Repositorio**
 ```bash
-git clone [https://github.com/tu-usuario/news-query_RPP-lab.git](https://github.com/JoaquinTerrazas/news-query_RPP-lab)
+git clone [https://github.com/JoaquinTerrazas/news-query_RPP-lab]
 cd news-query_RPP-lab
 ```
 
