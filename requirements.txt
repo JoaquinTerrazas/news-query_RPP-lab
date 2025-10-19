@@ -1,0 +1,8 @@
+pandas
+feedparser
+tiktoken
+sentence-transformers
+chromadb
+langchain
+langchain-community
+langchain-huggingface
